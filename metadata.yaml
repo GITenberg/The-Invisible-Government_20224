@@ -1,0 +1,28 @@
+_repo: The-Invisible-Government_20224
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smoot, Dan
+    birthdate: 1913
+    deathdate: 2003
+    gutenberg_agent_id: '9168'
+    url: http://www.gutenberg.org/2009/agents/9168
+    wikipedia: http://en.wikipedia.org/wiki/Dan_Smoot
+description: ''
+gutenberg_issued: '2006-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20224'
+  lccn: '62043446'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JX'
+- !lcsh 'Council on Foreign Relations'
+title: The Invisible Government
+url: http://www.gutenberg.org/ebooks/20224
